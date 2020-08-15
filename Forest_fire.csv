@@ -1,0 +1,40 @@
+Area,Oxygen,Temperature,Humidity,Fire Occurrence
+Karachi,40,45,20,1
+Lahore,50,30,10,1
+Faisal?b?d,10,20,70,0
+Serai,60,45,70,1
+R?walpindi,30,48,10,1
+Mult?n,50,15,30,0
+Gujr?nw?la,5,35,35,0
+Hyder?b?d City,5,20,70,0
+Pesh?war,60,32,19,1
+Abbott?b?d,30,50,45,1
+Islamabad,40,55,80,1
+Quetta,30,39,100,0
+Bannu,10,12,12,0
+Bah?walpur,20,23,23,0
+Sargodha,60,34,15,1
+Si?lkot City,80,4,68,0
+Sukkur,25,56,79,1
+L?rk?na,12,45,90,0
+Sheikhupura,28,43,15,1
+M?rpur Kh?s,26,0,32,0
+Rah?my?r Kh?n,32,37,21,1
+Koh?t,45,48,12,1
+Jhang Sadr,56,15,65,0
+Gujr?t,67,45,33,1
+Bard?r,78,49,8,1
+Kas?r,89,45,18,1
+Dera Gh?zi Kh?n,21,12,44,0
+Mas?w?la,11,20,59,0
+Naw?bsh?h,1,32,70,0
+Ok?ra,5,20,45,0
+Gilgit,42,43,20,1
+Chiniot,32,60,30,1
+S?diq?b?d,5,15,5,0
+Turbat,20,30,5,0
+Dera Ism??l Kh?n,30,51,2,1
+Chaman,60,60,10,1
+Zhob,10,10,60,0
+Mehra,0,30,0,0
+Parachin?r,45,45,15,1
